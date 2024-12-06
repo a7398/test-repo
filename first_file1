@@ -1,0 +1,40 @@
+value = (5 + ((7 * 5) / 8)) / 3 ** 5
+print(value)
+
+len_way = 120
+len_mcad = 109
+speed_vasy = 70
+time_vasy = 4
+print(len_way % len_mcad)
+
+number1 = 34
+number2 = 12.67
+if number2 > number1:
+    print(number2)
+else:
+    number1 > number
+    print(number1)
+
+x = 3
+y = 2
+z = 0
+if x ==y:
+    print(3)
+elif y ==z:
+    print(2)
+else:
+    print(0)
+
+x1 = int(input())
+y1 = int(input())
+x2 = int(input())
+y2 = int(input())
+if x1 == x2 or y1 == y2:
+    print('YES')
+else:
+    print('NO')
+
+password = input()
+while len(password) > 8:
+    print(password)
+    break
